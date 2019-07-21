@@ -15,7 +15,7 @@
 
 ## 1. Introduction
 
-B1RK4 is a standalone executable program written in C++ that calculates the response of a bilinear single-degree-of-freedom oscillator to an arbitrary base acceleration input via the fourth-order Runge-Kutta formulation. It can be used in standalone mode, or in conjunction with third-party software. It may find application in parametric, stochastic analysis and optimisation, and can assist learning on the subject of structural dynamics.
+RP1RK4 is a standalone executable program written in C++ that calculates the response of a rigid-plastic single-degree-of-freedom block to an arbitrary base acceleration input via the fourth-order Runge-Kutta formulation. It can be used in standalone mode, or in conjunction with third-party software. It may find application in parametric, stochastic analysis and optimisation, and can assist learning on the subject of structural dynamics.
 
 ## 2. System requirements
 The program runs on Windows operating system directly from the command prompt, without the requirement to use any other software. 
