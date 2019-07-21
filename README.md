@@ -66,4 +66,5 @@ Please contact s.kasinos@gmail.com.
 
 [2] Giaralis, A. and Kougioumtzoglou, I. [A stochastic dynamics approach for response spectrum analysis of bilinear systems using time-dependent equivalent linear properties](http://hdl.handle.net/2429/53408). Proceedings of the 12th International Conference on Applications of Statistics and Probability in Civil Engineering, 2015.
 
+[3] Atkinson, K. An introduction to numerical analysis. John Wiley & Sons, 2008.
 
