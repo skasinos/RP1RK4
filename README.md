@@ -47,7 +47,7 @@ The solver **cannot** be executed by double clicking the executable file. To run
 switches the directory on the command prompt. To run the solver then use:
 
   ```latex
- B1RK4.exe In.txt Out.txt
+ RP1RK4.exe In.txt Out.txt
   ```
   
  which instructs the command prompt to run the solver after reading the input text file In.txt and write the output to Out.txt. It is noted, that this can also be achieved by calling the system command prompt from a third-party software such as MATLAB or PYTHON. 
