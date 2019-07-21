@@ -64,7 +64,7 @@ Please contact s.kasinos@gmail.com.
 
 [1] Kasinos, S. [Seismic response analysis of linear and nonlinear secondary structures](https://dspace.lboro.ac.uk/2134/33728). PhD thesis, 2018.
 
-[2] Giaralis, A. and Kougioumtzoglou, I. [A stochastic dynamics approach for response spectrum analysis of bilinear systems using time-dependent equivalent linear properties](http://hdl.handle.net/2429/53408). Proceedings of the 12th International Conference on Applications of Statistics and Probability in Civil Engineering, 2015.
+[2] Hong, H. and Liu, S. [Coulomb friction oscillator: modelling and responses to harmonic loads and base excitations](https://doi.org/10.1006/jsvi.1999.2594). Journal of Sound and Vibration, 229, 1171-1192, 2000.
 
 [3] Atkinson, K. An introduction to numerical analysis. John Wiley & Sons, 2008.
 
