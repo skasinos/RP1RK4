@@ -1,4 +1,4 @@
-# B1RK4 solver for the bilinear single-degree-of-freedom	oscillator response to arbitrary base acceleration excitation
+# RP1RK4 solver for the response of a rigid-plastic single-degree-of-freedom block to arbitrary base acceleration excitation
 
 <p align="center">
 <b>  User Instructions </b><br>
